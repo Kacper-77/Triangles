@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Triangles.dir/src/main.cpp.o CMakeFiles/Triangles.dir/src/Renderer.cpp.o -o Triangles  -Wl,-rpath,/usr/local/lib -Wl,-rpath,/opt/homebrew/lib libTriangleGeometry.a /usr/local/lib/libvulkan.dylib /opt/homebrew/lib/libglfw.3.5.dylib

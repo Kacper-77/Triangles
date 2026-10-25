@@ -1,0 +1,5 @@
+/Users/kacperszaruga/Desktop/Projects/Triangles_6/build/CMakeFiles/Shaders.dir
+/Users/kacperszaruga/Desktop/Projects/Triangles_6/build/CMakeFiles/TriangleGeometry.dir
+/Users/kacperszaruga/Desktop/Projects/Triangles_6/build/CMakeFiles/Triangles.dir
+/Users/kacperszaruga/Desktop/Projects/Triangles_6/build/CMakeFiles/edit_cache.dir
+/Users/kacperszaruga/Desktop/Projects/Triangles_6/build/CMakeFiles/rebuild_cache.dir
