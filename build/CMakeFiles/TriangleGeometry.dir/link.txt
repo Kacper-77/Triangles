@@ -1,2 +1,0 @@
-/usr/bin/ar qc libTriangleGeometry.a CMakeFiles/TriangleGeometry.dir/src/TriangleGenerator.cpp.o
-/usr/bin/ranlib libTriangleGeometry.a

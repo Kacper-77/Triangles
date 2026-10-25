@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+cmake-build-*/
+
+# Compiled binaries and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.dylib
+*.dll
+*.so
+*.exe
+
+# IDE and editor files
+.idea/
+.vscode/
+.DS_Store
+
+# Generated benchmark results
+*.csv
